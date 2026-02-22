@@ -148,6 +148,34 @@ A 4-page interactive dashboard was developed:
 3. Discount & Loss Impact Analysis
 4. Customer Intelligence & Segmentation
 
+## Power BI Dashboard Preview
+
+### 1. Executive Overview
+Interactive KPI tracking of revenue, profit margin, order volume, and monthly performance trends.
+
+![Executive Overview](PowerBI/screenshots/executive_overview.png)
+
+---
+
+### 2. Product & Profitability Analysis
+Category-level margin analysis and top-performing products identification.
+
+![Product & Profitability Analysis](PowerBI/screenshots/product_profit_analysis.png)
+
+---
+
+### 3. Discount & Loss Impact Analysis
+Visualization of discount thresholds and their impact on profitability.
+
+![Discount & Loss Impact](PowerBI/screenshots/discount_loss_analysis.png)
+
+---
+
+### 4. Customer Intelligence & RFM Segmentation
+Customer segmentation insights highlighting Champions, Loyal, and At-Risk groups.
+
+![Customer Intelligence](PowerBI/screenshots/customer_intelligence.png)
+
 The dashboard enables stakeholders to:
 - Monitor margin trends
 - Identify loss drivers
