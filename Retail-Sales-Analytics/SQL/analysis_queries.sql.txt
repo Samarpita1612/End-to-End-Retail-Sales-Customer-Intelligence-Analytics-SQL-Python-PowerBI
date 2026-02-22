@@ -1,0 +1,29 @@
+-- Total Revenue
+SELECT SUM(sales) AS total_revenue FROM orders;
+
+-- Total Profit
+SELECT SUM(profit) AS total_profit FROM orders;
+
+-- Profit Margin
+SELECT (SUM(profit)/SUM(sales))*100 AS profit_margin FROM orders;
+
+-- Revenue by Region
+SELECT region, SUM(sales) AS revenue
+FROM orders
+GROUP BY region
+ORDER BY revenue DESC;
+
+-- Discount Impact
+SELECT discount,
+       AVG(profit) AS avg_profit
+FROM orders
+GROUP BY discount
+ORDER BY discount;
+
+-- Loss by Category
+SELECT category,
+       COUNT(*) AS loss_orders,
+       SUM(profit) AS total_loss
+FROM orders
+WHERE profit < 0
+GROUP BY category;
