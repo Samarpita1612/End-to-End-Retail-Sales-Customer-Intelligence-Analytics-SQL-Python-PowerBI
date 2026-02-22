@@ -153,28 +153,28 @@ A 4-page interactive dashboard was developed:
 ### 1. Executive Overview
 Interactive KPI tracking of revenue, profit margin, order volume, and monthly performance trends.
 
-![Executive Overview](PowerBI/screenshots/executive_overview.png)
+![Executive Overview](PowerBI/Dashboad_screenshots/executive_overview.png)
 
 ---
 
 ### 2. Product & Profitability Analysis
 Category-level margin analysis and top-performing products identification.
 
-![Product & Profitability Analysis](PowerBI/screenshots/product_profit_analysis.png)
+![Product & Profitability Analysis](PowerBI/Dashboad_screenshots/product_profit_analysis.png)
 
 ---
 
 ### 3. Discount & Loss Impact Analysis
 Visualization of discount thresholds and their impact on profitability.
 
-![Discount & Loss Impact](PowerBI/screenshots/discount_loss_analysis.png)
+![Discount & Loss Impact](PowerBI/Dashboad_screenshots/discount_loss_analysis.png)
 
 ---
 
 ### 4. Customer Intelligence & RFM Segmentation
 Customer segmentation insights highlighting Champions, Loyal, and At-Risk groups.
 
-![Customer Intelligence](PowerBI/screenshots/customer_intelligence.png)
+![Customer Intelligence](PowerBI/Dashboad_screenshots/customer_intelligence.png)
 
 The dashboard enables stakeholders to:
 - Monitor margin trends
@@ -210,6 +210,7 @@ Retail-Sales-Analytics/
 ├── SQL/
 │ ├── schema.sql
 │ ├── analysis_queries.sql
+| |__ Dashboad_screenshots
 │
 ├── Python/
 │ ├── rfm_analysis.ipynb
