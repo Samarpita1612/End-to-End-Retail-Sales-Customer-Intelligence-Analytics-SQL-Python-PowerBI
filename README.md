@@ -151,30 +151,42 @@ A 4-page interactive dashboard was developed:
 ## Power BI Dashboard Preview
 
 ### 1. Executive Overview
-Interactive KPI tracking of revenue, profit margin, order volume, and monthly performance trends.
 
-![Executive Overview](PowerBI_Dashboards/Dashboad_screenshots/executive_overview.png)
+<p align="center">
+  <img src="PowerBi_Dashboards/Dashboards_screenshots/executive_overview.png" 
+       alt="Executive Overview Dashboard" 
+       width="85%">
+</p>
 
 ---
 
 ### 2. Product & Profitability Analysis
-Category-level margin analysis and top-performing products identification.
 
-![Product & Profitability Analysis](PowerBI_Dashboards/Dashboad_screenshots/product_profit_analysis.png)
+<p align="center">
+  <img src="PowerBi_Dashboards/Dashboards_screenshots/product_profit_analysis.png" 
+       alt="Product and Profitability Analysis Dashboard" 
+       width="85%">
+</p>
 
 ---
 
 ### 3. Discount & Loss Impact Analysis
-Visualization of discount thresholds and their impact on profitability.
 
-![Discount & Loss Impact](PowerBI_Dashboards/Dashboad_screenshots/discount_loss_analysis.png)
+<p align="center">
+  <img src="PowerBi_Dashboards/Dashboards_screenshots/discount_loss_analysis.png" 
+       alt="Discount and Loss Impact Dashboard" 
+       width="85%">
+</p>
 
 ---
 
 ### 4. Customer Intelligence & RFM Segmentation
-Customer segmentation insights highlighting Champions, Loyal, and At-Risk groups.
 
-![Customer Intelligence](PowerBI_Dashboards/Dashboad_screenshots/customer_intelligence.png)
+<p align="center">
+  <img src="PowerBi_Dashboards/Dashboards_screenshots/customer_intelligence.png" 
+       alt="Customer Intelligence and RFM Segmentation Dashboard" 
+       width="85%">
+</p>
 
 The dashboard enables stakeholders to:
 - Monitor margin trends
