@@ -153,9 +153,7 @@ A 4-page interactive dashboard was developed:
 ### 1. Executive Overview
 
 <p align="center">
-  <img src="PowerBi_Dashboards/Dashboards_screenshots/executive_overview.png" 
-       alt="Executive Overview Dashboard" 
-       width="85%">
+  <img <img width="1418" height="795" alt="executive_overview png" src="https://github.com/user-attachments/assets/81a9530a-7350-4710-9842-ba04d07e474c" />
 </p>
 
 ---
@@ -163,19 +161,15 @@ A 4-page interactive dashboard was developed:
 ### 2. Product & Profitability Analysis
 
 <p align="center">
-  <img src="PowerBi_Dashboards/Dashboards_screenshots/product_profit_analysis.png" 
-       alt="Product and Profitability Analysis Dashboard" 
-       width="85%">
-</p>
+  <img width="1423" height="792" alt="product_profit_analysis png" src="https://github.com/user-attachments/assets/5b0ee3a6-3bf5-4016-9cf6-173082d45d99" />
+    </p>
 
 ---
 
 ### 3. Discount & Loss Impact Analysis
 
 <p align="center">
-  <img src="PowerBi_Dashboards/Dashboards_screenshots/discount_loss_analysis.png" 
-       alt="Discount and Loss Impact Dashboard" 
-       width="85%">
+  <img <img width="1430" height="798" alt="discount_loss_analysis png" src="https://github.com/user-attachments/assets/dc3c73cf-9d30-4de7-9dc0-de15244ea3ff" />
 </p>
 
 ---
@@ -183,9 +177,7 @@ A 4-page interactive dashboard was developed:
 ### 4. Customer Intelligence & RFM Segmentation
 
 <p align="center">
-  <img src="PowerBi_Dashboards/Dashboards_screenshots/customer_intelligence.png" 
-       alt="Customer Intelligence and RFM Segmentation Dashboard" 
-       width="85%">
+  <img <img width="1431" height="806" alt="customer_intelligence png" src="https://github.com/user-attachments/assets/bd95e19b-fb18-4439-8b62-6883ffe04d58" />
 </p>
 
 The dashboard enables stakeholders to:
